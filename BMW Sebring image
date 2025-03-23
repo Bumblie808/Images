@@ -1,0 +1,10 @@
+git clone https://github.com/owner/repo.git
+cd repo
+
+cp "C:\Users\caspa\OneDrive\Pictures\Maniti Racing\Foto's\Sebring-BMW-Sunrise.jpg"
+
+git add ./images/image.png
+
+git commit -m "Add an image to the repository"
+
+git push origin main
